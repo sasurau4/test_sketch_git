@@ -42,12 +42,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "862A2566-DB90-41F3-A2B7-E93858B6BB4E"
+      "class": "group",
+      "id": "85CA77C5-DB36-4228-A988-281BA03CFCCF"
     },
     {
-      "class": "text",
-      "id": "D4A5177B-2451-40FB-95FB-3DC3FE21B318"
+      "class": "group",
+      "id": "3721D8B5-F36B-41BB-B386-1C27B87D2E5B"
     }
   ],
   "name": "t",
