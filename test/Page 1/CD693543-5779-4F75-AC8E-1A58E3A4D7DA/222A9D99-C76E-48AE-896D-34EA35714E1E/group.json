@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "3721D8B5-F36B-41BB-B386-1C27B87D2E5B",
+  "do_objectID": "222A9D99-C76E-48AE-896D-34EA35714E1E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 45,
-    "width": 150,
-    "x": 228,
-    "y": 56
+    "height": 35,
+    "width": 70,
+    "x": 102,
+    "y": 222
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,14 +27,14 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "FD5897A7-463D-4738-BE61-D6B96A3E73FC"
+      "id": "E1ED7B76-3B0A-4B7D-9718-6BFD561FF94E"
     },
     {
       "class": "text",
-      "id": "C66CC8A3-64BA-4990-9EBE-6EFD235A888B"
+      "id": "99C5EE6B-F935-40C0-A48A-7ECFB776A3FF"
     }
   ],
-  "name": "ボタン",
+  "name": "ok button",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
